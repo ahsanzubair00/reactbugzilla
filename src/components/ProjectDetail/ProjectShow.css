@@ -1,0 +1,14 @@
+.image{
+  background-image: url(/home/dev/Desktop/bugzilla/src/Assets/codes.png);
+  background-size: 300px;
+  height: 250px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.style{
+  margin-top: 5%;
+}
+.title_style{
+  margin-bottom: 2%;
+}
